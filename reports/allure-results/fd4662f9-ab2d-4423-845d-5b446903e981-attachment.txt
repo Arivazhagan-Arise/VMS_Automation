@@ -1,0 +1,4 @@
+2026-10-08 18:04:03,529 | INFO | LoginPage | Entering text into: ('xpath', "//input[@id='UserId']")
+2026-10-08 18:04:06,014 | INFO | LoginPage | Entering text into: ('xpath', "//input[@id='password']")
+2026-10-08 18:04:06,067 | INFO | LoginPage | Clicking element: ('xpath', "//button[normalize-space()='Sign in']")
+2026-10-08 18:04:06,120 | INFO | LoginPage | Checking visibility: ('xpath', "//*[normalize-space()='Dashboard']")

@@ -1,0 +1,4 @@
+[32mINFO    [0m LoginPage:base_page.py:16 Entering text into: ('xpath', "//input[@id='UserId']")
+[32mINFO    [0m LoginPage:base_page.py:16 Entering text into: ('xpath', "//input[@id='password']")
+[32mINFO    [0m LoginPage:base_page.py:12 Clicking element: ('xpath', "//button[normalize-space()='Sign in']")
+[32mINFO    [0m LoginPage:base_page.py:22 Checking visibility: ('xpath', "//*[normalize-space()='Dashboard']")

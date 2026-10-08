@@ -1,0 +1,11 @@
+environment: stage
+
+web:
+  url: "https://stage-aicl-vms-ui.azurewebsites.net/"
+
+timeouts:
+  default: 10
+
+mobile:
+  platform: Android
+  app_path: "app/VMS_CheckIn.apk"
